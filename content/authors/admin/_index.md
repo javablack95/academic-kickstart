@@ -22,8 +22,9 @@ bio: .
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Blockchain
+- Quantum Machine Learning
+
 
 education:
   courses:
@@ -62,6 +63,5 @@ user_groups:
 - Visitors
 ---
 
-Javis Kamau is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Javis Kamau is a Data scientist at Crop Nutrition Laboratory Services. He works with soil and plant data and develops models to predict soil nutrients from different data sources.His research interests include Quantum machine learning, Computer vision ,generative adversarial networks and Natural language processing. 
