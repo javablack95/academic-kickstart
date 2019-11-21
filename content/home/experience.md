@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   * Developed an automated feature selection tool which reduced training time by 75%
  
   """
-July 2017 – February 2018
+
 [[experience]]
   title = "Sales manager"
   company = "Chuma Mart Company limited"
