@@ -18,27 +18,29 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Data Scientist"
+  company = "Crop Nutrition Laboratory Services"
+  company_url = "www.cropnuts.com"
+  location = "Limuru, Kenya"
+  date_start = "2018-11-15"
+  date_end = "up-to-date"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Improved yields for thousands of smallholder farmers by deploying machine learning models as an affordable alternative to expensive lab soil testing
+  * Developed a distribution match system which aids in  identification of proper calibration samples which reduced
+  time for calibration by 50%
+  * Developed an automated feature selection tool which reduced training time by 75%
+ 
   """
-
+July 2017 – February 2018
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Sales manager"
+  company = "Chuma Mart Company limited"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Nakuru, Kenya"
+  date_start = "2017-07-01"
+  date_end = "2018-02-28"
+  description = """I was actively involved in the marketing and selling construction materials where during my period was able to increase the sales by 50% using simple analytics of sales data."""
 
 +++
