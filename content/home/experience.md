@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "www.cropnuts.com"
   location = "Limuru, Kenya"
   date_start = "2018-11-15"
-  date_end = "up-to-date"
+  date_end = ""
   description = """
   Responsibilities include:
   
