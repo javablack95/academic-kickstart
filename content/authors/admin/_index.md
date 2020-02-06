@@ -23,12 +23,13 @@ bio: .
 interests:
 - Artificial Intelligence
 - Blockchain
-- Quantum Machine Learning
+- Quantum Computing
+- Secure AI
 
 
 education:
   courses:
-  - course: BSc in Geology
+  - course: Bsc in Geology
     institution: University of Nairobi
     year: 2018
 
@@ -64,4 +65,4 @@ user_groups:
 ---
 
 
-Javis Kamau is a Data scientist at Crop Nutrition Laboratory Services. He works with soil and plant data and develops models to predict soil nutrients from different data sources.His research interests include Quantum machine learning, Computer vision ,generative adversarial networks and Natural language processing. 
+Javis Kamau is a Data scientist working with soil , plants and geospatial data currently working in Crop Nutrition Laboratory Services. He develops models to predict soil and plants nutrients from different data sources.His research interests include Decentralized systems, Quantum machine learning, Computer vision and Natural language processing. 
