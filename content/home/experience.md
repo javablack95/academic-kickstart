@@ -44,7 +44,7 @@ date_format = "Jan 2006"
  * Developed APIs to interface models with web apps and dashboards to communicate various data analysis and model results.
 
  
-  """"
+  """
 
 [[experience]]
   title = "Sales manager/Data Analyst"
@@ -53,7 +53,7 @@ date_format = "Jan 2006"
   location = "Nakuru, Kenya"
   date_start = "2017-07-01"
   date_end = "2018-02-28"
-  description = """"
+  description = """
 
   Responsibilities include:
   * Improve sales of the products provided by the company 
@@ -66,5 +66,5 @@ date_format = "Jan 2006"
  * Created 40+ marketing & risk analysis reports supporting multiple business decisions.
  * I was actively involved in the marketing and selling construction materials where during my period was able to increase the sales by 50% using simple analytics of sales data.
 
- """"
+ """
 +++
