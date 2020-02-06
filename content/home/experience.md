@@ -26,21 +26,45 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Responsibilities include:
+
+ * Support the spectral lab services, both external and internal
+ * Statistical analysis of spectral data vs wet chemistry
+ * Predictive modelling of spectral data
+ * Research and development to improve spectral predictions
+ * Spectral lab technical support – quality control, process management and data flow
+ * Support the software development team (web and mobile app development)
+
   
-  * Improved yields for thousands of smallholder farmers by deploying machine learning models as an affordable alternative to expensive lab soil testing
-  * Developed a distribution match system which aids in  identification of proper calibration samples which reduced
-  time for calibration by 50%
-  * Developed an automated feature selection tool which reduced training time by 75%
+  Achievements include :
+
+ * Improved yields for thousands of smallholder farmers in 5 different African countries by deploying machine learning models for nutrients predictions as an affordable alternative to expensive laboratory soil testing. This was a result of combining different data sources and integrating agronomist recommendations to improve soil fertility. 
+ * Developed a distribution match system which aids in identification of proper calibration samples which reduced operational and compute time for calibration by 50%
+ * Developed an automated feature selection tool which reduced training time by 75% improving operations efficacy and model operations.
+ * Developed preprocessing pipeline to improve quality of the data used for modelling and as a result improved models’ accuracy of different chemical parameters.
+ * Developed APIs to interface models with web apps and dashboards to communicate various data analysis and model results.
+
  
-  """
+  """"
 
 [[experience]]
-  title = "Sales manager"
+  title = "Sales manager/Data Analyst"
   company = "Chuma Mart Company limited"
   company_url = ""
   location = "Nakuru, Kenya"
   date_start = "2017-07-01"
   date_end = "2018-02-28"
-  description = """I was actively involved in the marketing and selling construction materials where during my period was able to increase the sales by 50% using simple analytics of sales data."""
+  description = """"
 
+  Responsibilities include:
+  * Improve sales of the products provided by the company 
+  * Innovate ways of getting customers response and increase customer service effiency
+  * Autogeneration of sales reports.
+  
+  Achievements include :
+ * Built several pipelines using SQL and python to tidy and wrangle data supporting analysis.
+ * Maintained weekly metrics, delivered dashboards to multiple levels of stakeholders with python dash & Tableau.
+ * Created 40+ marketing & risk analysis reports supporting multiple business decisions.
+ * I was actively involved in the marketing and selling construction materials where during my period was able to increase the sales by 50% using simple analytics of sales data.
+
+ """"
 +++
