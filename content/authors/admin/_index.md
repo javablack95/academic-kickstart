@@ -65,4 +65,4 @@ user_groups:
 ---
 
 
-Javis Kamau is a Data scientist working with soil , plants and geospatial data currently working in Crop Nutrition Laboratory Services. He develops models to predict soil and plants nutrients from different data sources.His research interests include Decentralized systems, Quantum machine learning, Computer vision and Natural language processing. 
+Javis Kamau is a Data scientist dealing with soil , plants and geospatial data currently working in Crop Nutrition Laboratory Services. He has developed models to predict soil and plants nutrients from different data sources.His research interests include Decentralized systems, Quantum machine learning, Computer vision and Natural language processing. 
