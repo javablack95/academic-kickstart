@@ -30,6 +30,6 @@ subtitle = ""
   icon = "globe-africa"
   icon_pack = "fas"
   name = "Geographic Information Systems (GIS)"
-  description = "80%"
+  description = "90%"
 
 +++
