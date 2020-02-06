@@ -55,12 +55,16 @@ date_format = "Jan 2006"
   date_end = "2018-02-28"
   description = """
 
+
   Responsibilities include:
+
   * Improve sales of the products provided by the company 
   * Innovate ways of getting customers response and increase customer service effiency
   * Autogeneration of sales reports.
   
+  
   Achievements include :
+
  * Built several pipelines using SQL and python to tidy and wrangle data supporting analysis.
  * Maintained weekly metrics, delivered dashboards to multiple levels of stakeholders with python dash & Tableau.
  * Created 40+ marketing & risk analysis reports supporting multiple business decisions.
