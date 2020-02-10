@@ -1,5 +1,5 @@
 
-external_link: "https://github.com/javablack95/Transfer-Learning"
+
 +++
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "Transfer-Learning"
 
 [content]
   # Page type to display. E.g. project.
@@ -76,6 +76,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
+--------
+external_link: "https://github.com/javablack95/Transfer-Learning
 
 
